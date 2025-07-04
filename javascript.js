@@ -5,8 +5,8 @@ const personas = [
   { nombre: "Camilo", ciudad: "Medellin", edad: 17 },
   { nombre: "Juan", ciudad: "Sincelejo", edad: 16 },
   { nombre: "Laura", ciudad: "Cartagena", edad: 15 },
-  { nombre: "Jose", ciudad: "Santa Marta", edad: 35 },
-  { nombre: "Anderson", ciudad: "Barranquilla", edad: 18 },
+  { nombre: "Jose", ciudad: "Santa Marta", edad: 15 },
+  { nombre: "Anderson", ciudad: "Barranquilla", edad: 17 },
 ];
 
 const root = document.querySelector(".root");
